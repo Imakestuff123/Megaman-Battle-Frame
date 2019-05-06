@@ -1,0 +1,69 @@
+- fix sliding hitbox
+- fix slide boosting
+- add gravity man
+- add knockback for sliding charactes	
+- add galaaxy man stage
+- add splash woman stage
+- prevent rings from getting stuck in walls 
+- fix gutsman platforms so epeople can't drop each other
+- ad star man stage
+- neaten up code
+- add crash man and flash man
+- add jewel man laser up
+- freeze player after first death and add their escape emote
+- add charge for quick man and snake man
+- make metal man's blades shoot in any direction
+- prevent protoman from shooting charged up while running
+- fix zero's sliding slashing
+- fix smoke from sliding animation
+- let protoman shoot while running
+- fix zero's saber placement
+- add animation for chill man throwing ice down
+- fix ice
+- add ring man stage
+- add sheep man stage
+- make it so that robot masters can shoot while moving, but it just stops them	
+- Add zero start animation
+- add walljump for zero
+- add idle animations 
+- fix animation for metal blade throwing
+- allow zerro to charge up his z saber using weapon energy and reflecting ammo
+- add beat and eddie
+- make chill man's normal blast freeze you and only do one damage
+- add jetpack mega
+- add bass transform animation
+- add pump man stage
+- fix cutmans blade in meny
+- fix shooting more shots than allowed
+- add commando man stage
+- add strike man stage
+- fix clones idiot
+- add crash man stage
+- fix shield problem
+- make ending thing not broken
+- fix chill man spikes
+- change bass's thing with his mid shoot while flying
+- add sniper jole
+- add nitro man?
+- add fake man
+- add enker
+- central highway
+- add hornet man
+- add time it takes to shoot
+- hurt boxes
+- hurt animation
+- add samus
+- add megman x starting stuff for central highway
+- add foot wiggle
+- add dynamic camera
+- fix roll's thing in elec man stage
+- fix the thing in every diredction
+- maybe have charge thing generate ammo
+- add bubbles underwater
+- fix cursor
+- fix change in animation palcement in run and gun characters
+- decide on what you want to do with sliding
+- make the showing of health and ammo more optimized
+- make portraitrs plus health lose alpha when player goes over them
+- make healthbar and ammo bar reveal above player whenever they get low
+- categorize ammo into physical and energy
