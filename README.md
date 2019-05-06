@@ -88,13 +88,21 @@ F - Shoot / select
   - Can't jump and shoot
   - Can't move and shoot
 - Skull Man
-  - 
+  - Shoots shots
+  - Can charge up his buster to full to create a skull shield
+  - Cannot shoot while running or jumping
 - Snake Man
-
+  - shoots snakes
+  - these snakes are shoottable
 - Roll
-
+  - Shoots same shots as megaman
+  - If half charged, you create item 1
+  - If fully charged, you create item 2
 - Bass 
-
+  - You can aim the specific shots, by holding up or down
+  - Has a megaman X esque dash
+  - If you half charge his buster, he'll rapid fire a bunch of shots
+  - If you fully charge his buster, 
 - Ring Man
 
 - Gemini Man
