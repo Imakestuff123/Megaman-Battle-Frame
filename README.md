@@ -104,16 +104,44 @@ F - Shoot / select
   - If you half charge his buster, he'll rapid fire a bunch of shots
   - If you fully charge his buster, 
 - Ring Man
-
+  - He doesn't shoot normal shots 
+  - He fully charges up to create a ring, he can throw these rings in several directions
+  - Cannot run and shoot
+  - Can pick up rings after he throws them by pressing shoot next to them
 - Gemini Man
-
+  - Cannot shoot while jumping or running
+  - Can shoot a laser which bounces if he charges up half way
+  - If he charges up fully, he'll shoot a laser that creates a clone of himeself
 - Chill Man
-
+  - Shoots chill shots, that leave chill spikes 
+  - If you charge up halfway, he'll drop a chill shot
+  - If you charge up all the way, he'll jump up and shoot a bunch of chill shots in a diagnal direction
+  - Cannot shoot while running or jumping
 - Coda
-
+  - Has a buster like megaman
+  - Half charged shot can go through walls
+  - Full charged shot will home in and stun enemies
+  - Can slide
 - Electric Man
-
+  - Will shoot spark shots which stun people
+  - Half charged shots will shoot elec beams
+  - Fully charged shots will shoot sheep man's weapons
+  - Cannot shoot while running or jumping
 - Fire Man
-
+  - Will shoot a flame shot with his normal shot
+  - His half charged shot will use his weapon from the original game
+  - His fully charged shot will shoot a big flame shot
+  - Cannot shoot while running or jumping
 ### Stages
-- 
+- Metal Man's stage
+  - Has conveyer belts that change direction
+- Flash Man's Stage
+  - Has a slippery movement
+- Bubble Man's Stage
+  - Low gravity underwater
+- Elec Man's Stage
+  - Blocks will disappear and appear in rythem
+- Guts Man's Stage
+  - Platforms will move along a track and drop along thin tracks
+- Shadow Man's Stage
+  - If you shoot the light bulb on top enough, it'll toggle the light
