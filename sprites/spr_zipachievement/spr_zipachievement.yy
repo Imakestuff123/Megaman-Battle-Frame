@@ -1,92 +1,82 @@
 {
-    "id": "ab9e4db2-fcbd-4235-b43d-c076d56a549c",
-    "modelName": "GMSprite",
-    "mvc": "1.12",
-    "name": "spr_zipachievement",
-    "For3D": false,
-    "HTile": false,
-    "VTile": false,
-    "bbox_bottom": 127,
-    "bbox_left": 0,
-    "bbox_right": 255,
-    "bbox_top": 0,
-    "bboxmode": 0,
-    "colkind": 1,
-    "coltolerance": 0,
-    "edgeFiltering": false,
-    "frames": [
-        {
-            "id": "15bff156-0116-4635-a284-8ff685ad3944",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "ab9e4db2-fcbd-4235-b43d-c076d56a549c",
-            "compositeImage": {
-                "id": "bf03529c-9c6d-4a4f-8acd-b8e7f09a9b7b",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "15bff156-0116-4635-a284-8ff685ad3944",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "98e6e5e2-9819-4a6e-840f-58c7df228499",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "15bff156-0116-4635-a284-8ff685ad3944",
-                    "LayerId": "82842cbb-56be-4a78-b5d4-c5a64f201c8d"
-                }
-            ]
-        },
-        {
-            "id": "f14da082-a008-4ef6-abca-3faf45249020",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "ab9e4db2-fcbd-4235-b43d-c076d56a549c",
-            "compositeImage": {
-                "id": "b110935d-89b0-4776-bd6b-a18755bfd2be",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "f14da082-a008-4ef6-abca-3faf45249020",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "bb3bb30e-ee6e-4c88-85fb-2f5b3f52bb64",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "f14da082-a008-4ef6-abca-3faf45249020",
-                    "LayerId": "82842cbb-56be-4a78-b5d4-c5a64f201c8d"
-                }
-            ]
-        }
-    ],
-    "gridX": 0,
-    "gridY": 0,
-    "height": 128,
-    "layers": [
-        {
-            "id": "82842cbb-56be-4a78-b5d4-c5a64f201c8d",
-            "modelName": "GMImageLayer",
-            "mvc": "1.0",
-            "SpriteId": "ab9e4db2-fcbd-4235-b43d-c076d56a549c",
-            "blendMode": 0,
-            "isLocked": false,
-            "name": "default",
-            "opacity": 100,
-            "visible": true
-        }
-    ],
-    "origin": 0,
-    "originLocked": false,
-    "playbackSpeed": 15,
+  "bboxMode": 0,
+  "collisionKind": 1,
+  "type": 0,
+  "origin": 0,
+  "preMultiplyAlpha": false,
+  "edgeFiltering": false,
+  "collisionTolerance": 0,
+  "swfPrecision": 2.525,
+  "bbox_left": 0,
+  "bbox_right": 255,
+  "bbox_top": 0,
+  "bbox_bottom": 127,
+  "HTile": false,
+  "VTile": false,
+  "For3D": false,
+  "width": 256,
+  "height": 128,
+  "textureGroupId": {
+    "name": "Default",
+    "path": "texturegroups/Default",
+  },
+  "swatchColours": null,
+  "gridX": 0,
+  "gridY": 0,
+  "frames": [
+    {"compositeImage":{"FrameId":{"name":"15bff156-0116-4635-a284-8ff685ad3944","path":"sprites/spr_zipachievement/spr_zipachievement.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"15bff156-0116-4635-a284-8ff685ad3944","path":"sprites/spr_zipachievement/spr_zipachievement.yy",},"LayerId":{"name":"82842cbb-56be-4a78-b5d4-c5a64f201c8d","path":"sprites/spr_zipachievement/spr_zipachievement.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_zipachievement","path":"sprites/spr_zipachievement/spr_zipachievement.yy",},"resourceVersion":"1.0","name":"15bff156-0116-4635-a284-8ff685ad3944","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"f14da082-a008-4ef6-abca-3faf45249020","path":"sprites/spr_zipachievement/spr_zipachievement.yy",},"LayerId":null,"resourceVersion":"1.0","name":"composite","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"f14da082-a008-4ef6-abca-3faf45249020","path":"sprites/spr_zipachievement/spr_zipachievement.yy",},"LayerId":{"name":"82842cbb-56be-4a78-b5d4-c5a64f201c8d","path":"sprites/spr_zipachievement/spr_zipachievement.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"spr_zipachievement","path":"sprites/spr_zipachievement/spr_zipachievement.yy",},"resourceVersion":"1.0","name":"f14da082-a008-4ef6-abca-3faf45249020","tags":[],"resourceType":"GMSpriteFrame",},
+  ],
+  "sequence": {
+    "spriteId": {"name":"spr_zipachievement","path":"sprites/spr_zipachievement/spr_zipachievement.yy",},
+    "timeUnits": 1,
+    "playback": 1,
+    "playbackSpeed": 15.0,
     "playbackSpeedType": 0,
-    "premultiplyAlpha": false,
-    "sepmasks": false,
-    "swatchColours": null,
-    "swfPrecision": 2.525,
-    "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
-    "type": 0,
-    "width": 256,
-    "xorig": 0,
-    "yorig": 0
+    "autoRecord": true,
+    "volume": 1.0,
+    "length": 2.0,
+    "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
+    "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
+    "tracks": [
+      {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
+            {"id":"1f3a1e83-60eb-4aa5-a165-4eb33162dc03","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"15bff156-0116-4635-a284-8ff685ad3944","path":"sprites/spr_zipachievement/spr_zipachievement.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"4cebb338-a970-45b7-8aff-6c90eeeed9eb","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"f14da082-a008-4ef6-abca-3faf45249020","path":"sprites/spr_zipachievement/spr_zipachievement.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+          ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
+    ],
+    "visibleRange": {"x":0.0,"y":0.0,},
+    "lockOrigin": false,
+    "showBackdrop": true,
+    "showBackdropImage": false,
+    "backdropImagePath": "",
+    "backdropImageOpacity": 0.5,
+    "backdropWidth": 1920,
+    "backdropHeight": 1080,
+    "backdropXOffset": 0.0,
+    "backdropYOffset": 0.0,
+    "xorigin": 0,
+    "yorigin": 0,
+    "eventToFunction": {},
+    "eventStubScript": null,
+    "parent": {"name":"spr_zipachievement","path":"sprites/spr_zipachievement/spr_zipachievement.yy",},
+    "resourceVersion": "1.3",
+    "name": "",
+    "tags": [],
+    "resourceType": "GMSequence",
+  },
+  "layers": [
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"82842cbb-56be-4a78-b5d4-c5a64f201c8d","tags":[],"resourceType":"GMImageLayer",},
+  ],
+  "parent": {
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "spr_zipachievement",
+  "tags": [],
+  "resourceType": "GMSprite",
 }

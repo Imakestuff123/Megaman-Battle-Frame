@@ -118,7 +118,8 @@ if (room == menu) {
 
 		if (startingframes >= starttime) {
 			if (room == battleroom) || (room == flashroom) || (room == bubbleroom) || (room == elecroom) || (room == gutsroom) || (room == shadowroom) || (room == highwayroom){
-				if (instance_exists(p1)){
+				
+				if (instance_exists(p1)) && (p1 != -1) && (p1 != 0) { 
 					draw_sprite_ext(spr_healthbar, 0, 50, 10, 0.35, 0.35, 0, c_white, 1);
 					draw_sprite_ext(spr_portraitborder, 0, 0, 5, 1, 1, 0, c_white, 1);
 					switch (p1character) {
@@ -224,7 +225,7 @@ if (room == menu) {
 						}	
 					}
 				}
-				if (instance_exists(p2)) {
+				if (instance_exists(p2)) && (p2 != -1) && (p2 != 0) {
 					draw_sprite_ext(spr_healthbar, 0, 945, 10, 0.35, 0.35, 0, c_white, 1);
 					draw_sprite_ext(spr_portraitborder, 0, 980, 5, 1, 1, 0, c_white, 1);
 					switch (p2character) {

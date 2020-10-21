@@ -1,8 +1,12 @@
 {
-    "id": "98ad06f6-ffe0-47e4-a1fb-0a8b37d0ec67",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "scr_item",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Scripts",
+    "path": "folders/Scripts.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "scr_item",
+  "tags": [],
+  "resourceType": "GMScript",
 }

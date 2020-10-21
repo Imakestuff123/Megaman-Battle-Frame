@@ -25,6 +25,9 @@ p2buttonjump = ord("G");
 p2buttonshoot = ord("F");
 p2buttondown = ord("S");
 p2buttonup = ord("W");
+
+p1 = -1;
+p2 = -1;
 		
 global.hazards = 1;
 global.dev = 0;

@@ -1,8 +1,12 @@
 {
-    "id": "3cf9e593-53d4-4a16-a392-283f86aa1465",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "scr_cut",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Scripts",
+    "path": "folders/Scripts.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "scr_cut",
+  "tags": [],
+  "resourceType": "GMScript",
 }
